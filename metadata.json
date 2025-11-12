@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Conversor de Bases Numéricas",
+  "description": "Una aplicación web para convertir números decimales a binario, octal o hexadecimal, mostrando el proceso de conversión paso a paso con explicaciones didácticas generadas por IA.",
+  "requestFramePermissions": []
+}
